@@ -21,7 +21,7 @@ export default {
     return {
       options: [{
         path: '/baseuse',
-        label: '基本用法'
+        label: '基础实例'
       }],
       curPage: ''
     }
