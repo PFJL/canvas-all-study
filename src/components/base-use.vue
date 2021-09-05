@@ -1,6 +1,6 @@
 <template>
   <div class="base-use">
-    <h2>基础实例</h2>
+    <h2>基础用法</h2>
     <div class="container">
       <canvas id="canvas" width="500" height="500" class="canvas">
         您的浏览器暂不支持canvas
